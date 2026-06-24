@@ -49,14 +49,6 @@ Fibonacci sequence
 Prime number checker
 Print star pattern
 
-Example:
-
-*
-**
-***
-****
-*****
-
 🟢 Level 5: Functions (41–50)
 Function to add numbers
 Function to subtract
@@ -92,10 +84,6 @@ some()
 every()
 reduce() total expenses
 forEach() print names
-
-Example:
-
-expenses.reduce((sum, item) => sum + item.amount, 0)
 
 🟢 Level 8: Objects (71–80)
 Create a person object
